@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+// .container {
+//   perspective: 600px;
+// }
+
+// .cube {
+//   transform-style: preserve-3d;
+//   transform: rotate(0);
+//   animation: spin 2s infinite linear;
+// }
+
+// @keyframes spin {
+//   to {
+//     transform: rotateX(1turn);
+//   }
+// }
+
+// .front,
+// .back,
+// .left,
+// .right,
+// .top,
+// .bottom {
+//   @apply absolute inset-0;
+//   backface-visibility: hidden;
+// }
+
+// .front,
+// .back {
+//   @apply bg-red-400/50;
+// }
+
+// .left,
+// .right {
+//   @apply bg-blue-400/50;
+// }
+
+// .top,
+// .bottom {
+//   @apply bg-green-400/50;
+// }
+
+// .front {
+//   transform: rotateY(0deg) translateZ(100px);
+// }
+// .right {
+//   transform: rotateY(90deg) translateZ(100px);
+// }
+// .back {
+//   transform: rotateY(180deg) translateZ(100px);
+// }
+// .left {
+//   transform: rotateY(-90deg) translateZ(100px);
+// }
+// .top {
+//   transform: rotateX(90deg) translateZ(100px);
+// }
+// .bottom {
+//   transform: rotateX(-90deg) translateZ(100px);
+// }
